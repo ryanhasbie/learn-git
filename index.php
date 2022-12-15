@@ -1,3 +1,2 @@
 <?php
-$learn = "Git & Github";
-echo $learn;
+echo "Diubah melalui git";
